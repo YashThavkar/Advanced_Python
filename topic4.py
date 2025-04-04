@@ -30,7 +30,7 @@ function_1(*list)
 #NOTE :- In args it uses tuple
 
 ################################################################################################################
-##KWARGS
+##KWARGS  (key-words arguments)
 
 def marks(**kwargs):
     print(type(kwargs))
