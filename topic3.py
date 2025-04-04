@@ -2,7 +2,7 @@
 if you are trying to do something and you don't have a confidence about the result then you use
 to avoid the killing of complete program we can use try except
 if you got the error and there is still 200 lines left and its not going to run
-but in try and except it not going to throw the error it will try to handle the exceptions and try to move on...
+but in try and except it is not going to throw the error it will try to handle the exceptions and try to move on...
 '''
 
 #try and except
